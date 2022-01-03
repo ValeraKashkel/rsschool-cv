@@ -50,9 +50,11 @@ Specialty: design and production of software-controlled electronic devices.
 Specialty: installation and operation of electrical equipment
 
 * Courses:
-- [ C++ ](https://www.sololearn.com/certificates/course/en/20637767/1051/landscape/png)
-- [HTML](https://www.sololearn.com/Certificate/1014-20637767/pdf/)
-- [CSS](https://www.sololearn.com/Certificate/1023-20637767/pdf/)
++ [ C++ ](https://www.sololearn.com/certificates/course/en/20637767/1051/landscape/png)
++ [HTML](https://www.sololearn.com/Certificate/1014-20637767/pdf/)
++ [CSS](https://www.sololearn.com/Certificate/1023-20637767/pdf/)
 
 ### English
-elementary (at the moment I am studying English).
+elementary
+
+ (at the moment I am studying English).
