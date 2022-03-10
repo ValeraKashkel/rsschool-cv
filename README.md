@@ -1,2 +1,2 @@
 https://ValeraKashkel.github.io/rsschool-cv/cv
-https://ValeraKashkel.github.io/rsschool-cv/index
+https://ValeraKashkel.github.io/rsschool-cv-html/index
