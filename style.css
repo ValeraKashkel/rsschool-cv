@@ -231,10 +231,9 @@ font-display: swap;
 .skills-list__dot_gray{
   background-color: var(--light-gray);
 }
-code {
-  display: flex;
-  flex-direction: row-reverse;
-  cursor: pointer;
+pre code.c {
+  display: block;
+  overflow-x: auto;
 }
 /* Footer Style */
 .footer{
